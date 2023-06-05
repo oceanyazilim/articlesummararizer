@@ -2,7 +2,7 @@
 ![AI Summarizer](https://i.hizliresim.com/kpax8bh.png)
 
 ## Introduction
-If you're a solo developer in 2023, you have the power to build robust AI software startups! Watch this 1-hour video and make an Article Summarizer Application using OpenAI's GPT model.
+If you're a solo developer in 2023, you have the power to build robust AI software startups! 
  
 Alongside building this application, you'll also learn how to:
 - setup a ReactJS project using Vite
