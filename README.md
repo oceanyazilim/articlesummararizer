@@ -12,5 +12,6 @@ Alongside building this application, you'll also learn how to:
 - handle form events and catch errors
 - implement copy to clipboard
 - write clean code
+- improve your code skills
 
-
+Chillemirhan 👋
