@@ -1,6 +1,6 @@
 # Build and Deploy Your Own ChatGPT AI SaaS Business with React
-![AI Summarizer][url=https://www.hizliresim.com/kpax8bh][img]https://i.hizliresim.com/kpax8bh.png[/img][/url]
-
+![AI Summarizer][(https://i.hizliresim.com/h6cpne1.png)
+](https://www.hizliresim.com/kpax8bh)
 ## Introduction
 If you're a solo developer in 2023, you have the power to build robust AI software startups! Watch this 1-hour video and make an Article Summarizer Application using OpenAI's GPT model.
  
